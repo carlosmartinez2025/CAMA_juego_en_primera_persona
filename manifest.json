@@ -1,0 +1,35 @@
+{
+    "lang": "es-SV",
+    "name":"videojuego en priemra persona con three.js",
+    "short_name": "Mata cubos",
+    "description": "Deberas destruir todos los bloques o cubos que se aparezcan en frente o en cualquier parte, el objetivo es destruirlos todos",
+    "start_url": "./",
+    "background_color": "#000",
+    "theme_color":"#000",
+    "orientation": "any",
+    "display": "standalone",
+    "icons":[
+        {
+            "src":"./media/icons/android-launchericon-192-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose":"any"
+        }
+    ],
+    "screenshots":[
+        {
+            "src":"./media/screenshot/1920x913.png",
+            "sizes":"1920x913",
+            "type": "image/png",
+            "form_facto": "wide",
+            "label":"Vista del videojuego en computadora"
+        },
+        {
+            "src":"./media/screenshot/1442x3206.png",
+            "sizes": "1442x3206",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label":"Vista del videojuego en moviles"
+        }
+    ]
+}
